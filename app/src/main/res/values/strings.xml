@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice19Kotline</string>
+    <string name="cat_info">Кот - домашнее животное, одно из наиболее популярных[1] (наряду с собакой) «животных-компаньонов»</string>
+    <string name="dog_info">Собака — четвероногое прирученное или домашнее животное, издающее характерные звуки (лай) и служащее человеку в домашнем быту, например, для охраны имущества, на охоте для отыскивания и преследования зверя или птицы.</string>
+    <string name="cat_british">Британская короткошерстная кошка: дружелюбная, спокойная.</string>
+    <string name="cat_siamese">Сиамская кошка: элегантная, общительная.</string>
+    <string name="dog_german">Немецкая овчарка: умная, верная.</string>
+    <string name="dog_labrador">Лабрадор ретривер: энергичный, ласковый.</string>
+    <string name="unknown_animal">Неизвестное животное.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
